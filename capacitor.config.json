@@ -1,0 +1,21 @@
+{
+  "appId": "com.deepuverma.portfolio",
+  "appName": "Deepu Verma",
+  "webDir": "www",
+  "backgroundColor": "#0A1428",
+  "server": {
+    "url": "https://dipuvrma97-arch.github.io/",
+    "cleartext": false,
+    "allowNavigation": ["dipuvrma97-arch.github.io"]
+  },
+  "android": { "backgroundColor": "#0A1428" },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "launchAutoHide": true,
+      "backgroundColor": "#0A1428",
+      "showSpinner": false,
+      "androidScaleType": "CENTER_INSIDE"
+    }
+  }
+}
